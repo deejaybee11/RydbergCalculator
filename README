@@ -1,0 +1,2 @@
+This is something I'm working on for the purpose of calculating the polarizability of Rydberg atoms for my own research. I was previously using Alkali Rydberg Calculator (ARC) which is an amazing package for python, but the speed of python is causing me a headache so I decided to write my own solver for these things entirely in C++ with the hope that it will save some time down the line.
+Feel free to use it as you wish, according to the licence rules of course.
